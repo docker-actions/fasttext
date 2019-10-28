@@ -1,2 +1,2 @@
 # fasttext
-Docker actions: (fasttext)[https://fasttext.cc]
+Docker actions: [fasttext](https://fasttext.cc)
